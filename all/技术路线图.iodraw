@@ -8,7 +8,7 @@
           <mxGeometry x="543" y="307" width="1086" height="566" as="geometry" />
         </mxCell>
         <mxCell id="1iF5V2vW0Gdy3k-alcv5-9" value="执行机构" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="760" y="340" width="300" height="60" as="geometry" />
+          <mxGeometry x="760" y="340" width="657" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1iF5V2vW0Gdy3k-alcv5-10" value="湿度传感器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;strokeColor=#E1D5E7;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="787" y="490" width="120" height="40" as="geometry" />
