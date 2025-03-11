@@ -80,7 +80,7 @@
           <mxGeometry x="650" y="414" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1xp0rBNZUZInsXFaAAj1-4" value="智能温室控制系统" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="711" y="683" width="300" height="60" as="geometry" />
+          <mxGeometry x="684" y="711" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1xp0rBNZUZInsXFaAAj1-6" value="遮阳网" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1224" y="512" width="100" height="30" as="geometry" />
