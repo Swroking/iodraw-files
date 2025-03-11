@@ -53,7 +53,7 @@
           <mxGeometry x="652" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1xp0rBNZUZInsXFaAAj1-4" value="智能温室控制系统" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="772" y="355" width="302" height="60" as="geometry" />
+          <mxGeometry x="772" y="374" width="302" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1xp0rBNZUZInsXFaAAj1-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
