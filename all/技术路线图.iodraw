@@ -22,7 +22,7 @@
             <mxPoint x="910" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1iF5V2vW0Gdy3k-alcv5-24" value="水足迹评价" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1iF5V2vW0Gdy3k-alcv5-24" value="水足迹评价" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;glass=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1iF5V2vW0Gdy3k-alcv5-26" value="能足迹评价" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
