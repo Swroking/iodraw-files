@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="173" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-67" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,7 +22,7 @@
             <mxPoint x="910" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1iF5V2vW0Gdy3k-alcv5-24" value="水足迹评价" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1iF5V2vW0Gdy3k-alcv5-24" value="水足迹评价" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1iF5V2vW0Gdy3k-alcv5-26" value="能足迹评价" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="1xp0rBNZUZInsXFaAAj1-4" value="智能温室控制系统" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=宋体;align=center;fontSize=15;spacingTop=2;spacing=2;spacingBottom=1;spacingLeft=1;spacingRight=1;labelBorderColor=none;fontStyle=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="711" y="683" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1xp0rBNZUZInsXFaAAj1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="804" y="689" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
